@@ -407,6 +407,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/builder-3.2.3/rakelib" />
       </SOURCES>
     </library>
+    <library name="bullet (v5.6.1, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/bullet-5.6.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/bullet-5.6.1/perf" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/bullet-5.6.1/rails" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/bullet-5.6.1/tasks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/bullet-5.6.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/bullet-5.6.1/perf" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/bullet-5.6.1/rails" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/bullet-5.6.1/tasks" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.15.0, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/bundler-1.15.0/bin" />
@@ -2162,6 +2177,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/uglifier-3.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="uniform_notifier (v1.10.0, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/uniform_notifier-1.10.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/uniform_notifier-1.10.0/lib" />
       </SOURCES>
     </library>
     <library name="warden (v1.2.7, rbenv: 2.3.3) [gem]">
