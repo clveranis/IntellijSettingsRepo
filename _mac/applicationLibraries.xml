@@ -704,6 +704,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/faker-1.6.6/lib" />
       </SOURCES>
     </library>
+    <library name="faker (v1.8.4@dfb076, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/faker-dfb0762fffe7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/faker-dfb0762fffe7/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/faker-dfb0762fffe7/script" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/faker-dfb0762fffe7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/faker-dfb0762fffe7/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/faker-dfb0762fffe7/script" />
+      </SOURCES>
+    </library>
     <library name="ffi (v1.9.18, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.18" />
