@@ -229,6 +229,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/addressable-2.5.1/tasks" />
       </SOURCES>
     </library>
+    <library name="ajax_pagination (v0.6.3, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/ajax_pagination-0.6.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/ajax_pagination-0.6.3/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/ajax_pagination-0.6.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/ajax_pagination-0.6.3/vendor" />
+      </SOURCES>
+    </library>
     <library name="ansi (v1.5.0, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/ansi-1.5.0/lib" />
@@ -933,6 +944,17 @@
       </DOCUMENTATION>
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="jquery-historyjs (v0.3.0, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/jquery-historyjs-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/jquery-historyjs-0.3.0/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/jquery-historyjs-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/jquery-historyjs-0.3.0/vendor" />
+      </SOURCES>
     </library>
     <library name="jquery-rails (v4.2.2, rbenv: 2.3.3) [gem]">
       <CLASSES>
