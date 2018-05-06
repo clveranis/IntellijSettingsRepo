@@ -21,6 +21,11 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="shift meta a" />
   </action>
+  <action id="Android.HotswapChanges" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
@@ -77,5 +82,6 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="UpdateRunningApplication" />
   <action id="WD.UploadCurrentRemoteFileAction" />
 </keymap>
