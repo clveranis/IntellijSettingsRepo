@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="wizard.html.erb" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping pattern="stylecourses" type="SCSS" />
     </extensionMap>
   </component>
