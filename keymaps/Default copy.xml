@@ -59,12 +59,10 @@
   <action id="EditorUpWithSelection" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
-    <mouse-shortcut keystroke="shift button143" />
     <keyboard-shortcut first-keystroke="shift down" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
-    <mouse-shortcut keystroke="shift button142" />
     <keyboard-shortcut first-keystroke="shift up" />
   </action>
   <action id="SwitchApply">
