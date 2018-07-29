@@ -902,15 +902,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/delayed_job_active_record-4.1.2/lib" />
       </SOURCES>
     </library>
-    <library name="delayed_job_active_record (v4.1.2, rbenv: 2.3.3) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/delayed_job_active_record-4.1.2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/delayed_job_active_record-4.1.2/lib" />
-      </SOURCES>
-    </library>
     <library name="delayed_job_web (v1.4, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/delayed_job_web-1.4/lib" />
