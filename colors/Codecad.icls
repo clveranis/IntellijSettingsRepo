@@ -4,9 +4,10 @@
     <property name="created">2017-01-19T23:15:45</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-06-06T08:48:06</property>
+    <property name="modified">2018-12-13T13:16:41</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="16" />
@@ -110,6 +111,14 @@
         <option name="FOREGROUND" value="e85d7f" />
       </value>
     </option>
+    <option name="RUBY_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
+    <option name="RUBY_CONSTANT_DECLARATION" baseAttributes="DEFAULT_CONSTANT" />
+    <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="RUBY_PARAMDEF_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="RUBY_PARAMETER_ID" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="RUBY_SPECIFIC_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="RUBY_SYMBOL" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="RUBY_WORDS" baseAttributes="DEFAULT_STRING" />
     <option name="SASS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="4b35ff" />
