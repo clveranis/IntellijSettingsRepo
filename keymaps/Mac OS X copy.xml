@@ -6,12 +6,4 @@
   </action>
   <action id="EditorDown" />
   <action id="EditorUp" />
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl right" />
-    <keyboard-shortcut first-keystroke="down" />
-  </action>
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl left" />
-    <keyboard-shortcut first-keystroke="up" />
-  </action>
 </keymap>
