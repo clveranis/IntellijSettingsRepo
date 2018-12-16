@@ -4,6 +4,4 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="f10" />
   </action>
-  <action id="EditorDown" />
-  <action id="EditorUp" />
 </keymap>
