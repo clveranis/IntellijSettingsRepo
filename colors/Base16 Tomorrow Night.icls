@@ -367,11 +367,6 @@
         <option name="FOREGROUND" value="ff70ff" />
       </value>
     </option>
-    <option name="CONSOLE_NORMAL_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="a3685a" />
-      </value>
-    </option>
     <option name="CONSOLE_OUTPUT">
       <value>
         <option name="BACKGROUND" value="252b39" />
