@@ -2447,7 +2447,7 @@
     </option>
     <option name="RUBY_CVAR">
       <value>
-        <option name="FOREGROUND" value="57a0eb" />
+        <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
     <option name="RUBY_DOT">
@@ -2467,7 +2467,7 @@
     </option>
     <option name="RUBY_GVAR">
       <value>
-        <option name="FOREGROUND" value="cc6666" />
+        <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
     <option name="RUBY_HASH_ASSOC">
@@ -2494,7 +2494,7 @@
     </option>
     <option name="RUBY_INTERPOLATED_STRING">
       <value>
-        <option name="FOREGROUND" value="b5bd68" />
+        <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
     <option name="RUBY_INVALID_ESCAPE_SEQUENCE">
@@ -2505,7 +2505,7 @@
     </option>
     <option name="RUBY_IVAR">
       <value>
-        <option name="FOREGROUND" value="6ba6eb" />
+        <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
     <option name="RUBY_KEYWORD">
@@ -2521,7 +2521,7 @@
     </option>
     <option name="RUBY_LOCAL_VAR_ID">
       <value>
-        <option name="FOREGROUND" value="57a0eb" />
+        <option name="FOREGROUND" value="1275bf" />
       </value>
     </option>
     <option name="RUBY_METHOD_NAME">
@@ -2536,7 +2536,7 @@
     </option>
     <option name="RUBY_NUMBER">
       <value>
-        <option name="FOREGROUND" value="74a4c8" />
+        <option name="FOREGROUND" value="3ac8ad" />
       </value>
     </option>
     <option name="RUBY_OPERATION_SIGN">
@@ -2546,7 +2546,7 @@
     </option>
     <option name="RUBY_PARAMDEF_CALL">
       <value>
-        <option name="FOREGROUND" value="aa4d56" />
+        <option name="FOREGROUND" value="e06c75" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2572,23 +2572,23 @@
     </option>
     <option name="RUBY_SPECIFIC_CALL">
       <value>
-        <option name="FOREGROUND" value="aa4d56" />
+        <option name="FOREGROUND" value="e06c75" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RUBY_STRING">
       <value>
-        <option name="FOREGROUND" value="b5bd68" />
+        <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
     <option name="RUBY_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="74a4c8" />
+        <option name="FOREGROUND" value="61aeef" />
       </value>
     </option>
     <option name="RUBY_WORDS">
       <value>
-        <option name="FOREGROUND" value="b5bd68" />
+        <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_ATTRIBUTE_NAME">
