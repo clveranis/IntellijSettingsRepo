@@ -1,16 +1,17 @@
 <scheme name="Base16 Tomorrow Night" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="LINE_SPACING" value="1.1" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="18" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="16" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="b5bd68" />
     <option name="ANNOTATIONS_COLOR" value="c5c8c6" />
@@ -40,6 +41,7 @@
     <option name="FILESTATUS_UNKNOWN" value="cc6666" />
     <option name="FILESTATUS_changelistConflict" value="cc6666" />
     <option name="FILESTATUS_modifiedOutside" value="80cbc4" />
+    <option name="GUTTER_BACKGROUND" value="26282c" />
     <option name="INDENT_GUIDE" value="37474f" />
     <option name="INFORMATION_HINT" value="1d1f21" />
     <option name="LINE_NUMBERS_COLOR" value="475f63" />
@@ -2444,7 +2446,7 @@
     </option>
     <option name="RUBY_CVAR">
       <value>
-        <option name="FOREGROUND" value="81a2be" />
+        <option name="FOREGROUND" value="68ae1" />
       </value>
     </option>
     <option name="RUBY_DOT">
@@ -3043,8 +3045,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="a3685a" />
-        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="FOREGROUND" value="abb2bf" />
+        <option name="BACKGROUND" value="26282c" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
