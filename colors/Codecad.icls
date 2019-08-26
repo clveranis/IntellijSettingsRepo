@@ -4,7 +4,7 @@
     <property name="created">2017-01-19T23:15:45</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2018-12-13T13:16:41</property>
+    <property name="modified">2019-08-26T11:14:28</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -111,8 +111,18 @@
         <option name="FOREGROUND" value="e85d7f" />
       </value>
     </option>
-    <option name="RUBY_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
+    <option name="RUBY_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="RUBY_CONSTANT_DECLARATION" baseAttributes="DEFAULT_CONSTANT" />
+    <option name="RUBY_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
     <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="RUBY_PARAMDEF_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="RUBY_PARAMETER_ID" baseAttributes="DEFAULT_PARAMETER" />

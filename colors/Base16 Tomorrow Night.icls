@@ -2436,17 +2436,17 @@
     </option>
     <option name="RUBY_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="f0c674" />
+        <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
     <option name="RUBY_CONSTANT_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="f0c674" />
+        <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
     <option name="RUBY_CVAR">
       <value>
-        <option name="FOREGROUND" value="68ae1" />
+        <option name="FOREGROUND" value="57a0eb" />
       </value>
     </option>
     <option name="RUBY_DOT">
@@ -2504,12 +2504,12 @@
     </option>
     <option name="RUBY_IVAR">
       <value>
-        <option name="FOREGROUND" value="81a2be" />
+        <option name="FOREGROUND" value="6ba6eb" />
       </value>
     </option>
     <option name="RUBY_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="b294bb" />
+        <option name="FOREGROUND" value="9876aa" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2520,12 +2520,12 @@
     </option>
     <option name="RUBY_LOCAL_VAR_ID">
       <value>
-        <option name="FOREGROUND" value="cc6666" />
+        <option name="FOREGROUND" value="57a0eb" />
       </value>
     </option>
     <option name="RUBY_METHOD_NAME">
       <value>
-        <option name="FOREGROUND" value="81a2be" />
+        <option name="FOREGROUND" value="f0c674" />
       </value>
     </option>
     <option name="RUBY_NTH_REF">
@@ -2545,6 +2545,7 @@
     </option>
     <option name="RUBY_PARAMDEF_CALL">
       <value>
+        <option name="FOREGROUND" value="aa4d56" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2570,6 +2571,7 @@
     </option>
     <option name="RUBY_SPECIFIC_CALL">
       <value>
+        <option name="FOREGROUND" value="aa4d56" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
