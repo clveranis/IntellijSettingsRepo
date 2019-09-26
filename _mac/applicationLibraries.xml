@@ -4675,6 +4675,46 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-c4ae8579a8fb/gemfiles" />
       </excluded>
     </library>
+    <library name="pdfjs_viewer-rails (v0.3.1@dd2f60, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/.idea" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/public" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/.idea" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/public" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/.idea" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/public" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/pdfjs_viewer-rails-dd2f60f0ad3c/gemfiles" />
+      </excluded>
+    </library>
     <library name="popper_js (v1.14.5, rbenv: 2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
