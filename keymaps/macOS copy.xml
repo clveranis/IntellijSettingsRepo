@@ -30,6 +30,7 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="Debug" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
@@ -44,6 +45,10 @@
   </action>
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
@@ -62,6 +67,7 @@
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="TodoViewGroupByFlattenPackage" />
+  <action id="UsageGrouping.DirectoryStructure" />
   <action id="UsageGrouping.FileStructure" />
   <action id="Vcs.QuickListPopupAction" />
 </keymap>
