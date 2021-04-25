@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../client_ct/src/variables/charts.jsx'" />
-    <option name="defaultScopeName" value="File '.../client_ct/src/variables/charts.jsx'" />
-    <option name="SEARCH_SCOPE" value="File '.../client_ct/src/variables/charts.jsx'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
