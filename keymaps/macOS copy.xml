@@ -12,6 +12,10 @@
     <keyboard-shortcut first-keystroke="meta v" />
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
+  <action id="$SelectAll">
+    <keyboard-shortcut first-keystroke="meta a" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="meta z" />
     <keyboard-shortcut first-keystroke="ctrl z" />
@@ -31,12 +35,23 @@
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
+  <action id="Editor SelectAll">
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="meta d" />
     <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="NavBar-selectHome">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="meta left" />
   </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
