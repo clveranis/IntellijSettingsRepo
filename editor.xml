@@ -1,9 +1,14 @@
 <application>
-  <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="Source Code Pro" />
+  <component name="CodeInsightSettings">
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="js.type.hints" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
