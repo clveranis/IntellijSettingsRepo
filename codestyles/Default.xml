@@ -1,0 +1,23 @@
+<code_scheme name="Default" version="173">
+  <Ruby>
+    <option name="INDENT_PRIVATE_METHODS" value="true" />
+    <option name="INDENT_PROTECTED_METHODS" value="true" />
+    <option name="INDENT_PUBLIC_METHODS" value="true" />
+    <option name="INDENT_WHEN_CASES" value="true" />
+  </Ruby>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
