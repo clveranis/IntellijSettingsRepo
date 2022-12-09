@@ -1,5 +1,6 @@
 <application>
   <component name="appmap-application">
+    <option name="appmapInstructionsViewed" value="true" />
     <option name="firstStart" value="false" />
   </component>
 </application>
