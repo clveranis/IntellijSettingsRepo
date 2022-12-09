@@ -1,5 +1,6 @@
 <application>
   <component name="appmap-application">
+    <option name="apiKey" value="YWRtaW5AdmVnYXRpdGxlLmNvbTo4N2QxOWI4YS02NTBkLTQ0MDktODkyNS1mNGI2MmZmMjJjMDE" />
     <option name="appmapInstructionsViewed" value="true" />
     <option name="firstStart" value="false" />
   </component>
